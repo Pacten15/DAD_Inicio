@@ -1,0 +1,14 @@
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\bin\Debug\net7.0\Name_List.exe
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\bin\Debug\net7.0\Name_List.deps.json
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\bin\Debug\net7.0\Name_List.runtimeconfig.json
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\bin\Debug\net7.0\Name_List.dll
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\bin\Debug\net7.0\Name_List.pdb
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\obj\Debug\net7.0\Name_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\obj\Debug\net7.0\Name_List.AssemblyInfoInputs.cache
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\obj\Debug\net7.0\Name_List.AssemblyInfo.cs
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\obj\Debug\net7.0\Name_List.csproj.CoreCompileInputs.cache
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\obj\Debug\net7.0\Name_List.dll
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\obj\Debug\net7.0\refint\Name_List.dll
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\obj\Debug\net7.0\Name_List.pdb
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\obj\Debug\net7.0\Name_List.genruntimeconfig.cache
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\Name_List\obj\Debug\net7.0\ref\Name_List.dll

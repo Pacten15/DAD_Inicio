@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option csharp_namespace = "chatServer";
+
+service ChatClientService {
+  rpc RecvMsg (RecvMsgRequest) returns (RecvMsgReply);
+}
+
+message RecvMsgRequest {
+  string nick = 1;
+  string msg = 2;
+}
+message RecvMsgReply {
+	bool ok = 1;
+}

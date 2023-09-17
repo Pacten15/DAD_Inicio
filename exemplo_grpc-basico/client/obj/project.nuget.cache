@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "33l/SD1uqBj3cLkvVE1vfGWAOR3wHAh0Zp1Hlh4brp2FgwVLP9U1FkSiTZiWMIGu23pHish9+YeM17lUuZVv0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luism\\Desktop\\Desenvolvimento_Aplicacoes_distribuidas\\Labs\\Lab1_redone\\exemplo_grpc-basico\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luism\\.nuget\\packages\\google.protobuf\\3.24.3\\google.protobuf.3.24.3.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\grpc.core.api\\2.57.0\\grpc.core.api.2.57.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\grpc.net.client\\2.57.0\\grpc.net.client.2.57.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\grpc.net.common\\2.57.0\\grpc.net.common.2.57.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\grpc.tools\\2.58.0\\grpc.tools.2.58.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

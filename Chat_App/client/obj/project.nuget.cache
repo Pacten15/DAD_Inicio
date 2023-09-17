@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyfWhvBFpt71tPj23QsGbVhyzw5m5WdVyDmtEN2RoXWfFrmSnSicByV8i3UGpBF6gZaU6Tc04uDnS6B/jv7TGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luism\\Desktop\\Desenvolvimento_Aplicacoes_distribuidas\\Labs\\Lab1_redone\\Chat_App\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luism\\.nuget\\packages\\google.protobuf\\3.24.3\\google.protobuf.3.24.3.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\grpc.core.api\\2.57.0\\grpc.core.api.2.57.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\grpc.net.client\\2.57.0\\grpc.net.client.2.57.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\grpc.net.common\\2.57.0\\grpc.net.common.2.57.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\grpc.tools\\2.58.0\\grpc.tools.2.58.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\hello_worls\bin\Debug\hello_worls.exe.config
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\hello_worls\bin\Debug\hello_worls.exe
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\hello_worls\bin\Debug\hello_worls.pdb
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\hello_worls\obj\Debug\hello_worls.csproj.AssemblyReference.cache
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\hello_worls\obj\Debug\hello_worls.csproj.CoreCompileInputs.cache
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\hello_worls\obj\Debug\hello_worls.exe
+C:\Users\luism\Desktop\Desenvolvimento_Aplicacoes_distribuidas\Labs\Lab1_redone\Tutorial_Básico\hello_worls\obj\Debug\hello_worls.pdb
